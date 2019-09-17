@@ -35,5 +35,4 @@ public class MyClass {
         feature5();
     }
 
-    //Hælla på ræ
 }
